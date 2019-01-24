@@ -12,7 +12,7 @@
                         <string>software-package</string>
                         <key>url</key>
                         <!-- 注意：IPA文件URL -->
-                        <string>http://132.232.153.78:8081/download/Phone/AppStore/fenghuangyule.ipa</string>
+                        <string>http://132.232.153.78:8081/download/Phone/AppStore/niceyule.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -37,14 +37,14 @@
                 <dict>
                     <key>bundle-identifier</key>
                     <!-- 注意：应用程序identifier -->
-                    <string>com.game.fenghuangyule</string>
+                    <string>com.game.niceyule</string>
                     <key>bundle-version</key>
                     <string>1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
                     <!-- 注意：应用程序名称 -->
-                    <string>凤凰娱乐</string>
+                    <string>奈思娱乐</string>
                 </dict>
             </dict>
         </array>
